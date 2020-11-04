@@ -1,0 +1,47 @@
+  <section>
+        <div class="into">
+            <div class="intro-img">
+                <div class="overlay"></div>
+                <img src="intro.jpg">
+                <div class="intro-txt">
+                    <h1>Unlimited movies, TV shows and more.</h1>
+                    <h6>Watch anywhere. Cancel anytime.</h6>  
+                    <p>Ready to watch? Enter your email to create or restart your membership.</p> 
+                    <label for="email">Email address</label>
+                    <input type="email" id="email" name="email">
+                    <a href="https://www.netflix.com/in/">Get Started</a>
+                </div>
+            </div>
+        </div>
+  </section>
+
+
+
+
+
+
+<select name="lang" id="lang">
+                        <option value="English US">English US</option>
+                        <option value="Hindi">Hindi</option>
+                    </select>
+
+
+
+
+ <header>
+        <div class="container">
+            <div class="row">
+                <img class="header-logo" src="download.png">
+                <div class="header-nav">
+                   <nav>
+                      <a href="https://www.netflix.com/in/">Sign In</a>
+                   </nav>
+                   <select name="lang" id="lang">
+                    <option value="English US">English US</option>
+                    <option value="Hindi">Hindi</option>
+                </select>
+                </div>    
+            </div>
+        </div>
+    </header>
+     
